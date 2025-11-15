@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning how to build advanced Paginated Reports (RDL) in Power BI for operational, printable, multi-page reporting.<br><br>🎓 Pursuing B.E. in Computer Science Engineering<br><br>📊 Passionate about Data Analytics & Business Intelligence<br><br>💡 Strong in problem-solving, communication, and presentation<br><br>🚀 Actively looking for a Data Analyst Internship (Dec–Jan)<br><br>📍 Based in Bangalore, Karnataka, India
+🌱 I’m currently learning how to build advanced Paginated Reports (RDL) in Power BI for operational, printable, multi-page reporting.<br><br>🎓 Pursuing B.E. in Computer Science Engineering<br><br>📊 Passionate about Data Analytics & Business Intelligence<br><br>💡 Strong in problem-solving, communication, and presentation<br><br>🚀 Actively looking for a Data Analyst Internship <br><br>📍 Based in Bangalore, Karnataka, India
 
 
 ## 🌐 Socials:
